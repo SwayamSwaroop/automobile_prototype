@@ -1,7 +1,6 @@
-# school-menteez-core
+# Automobile_Prototype
 
-School MenteeZ backend starter, following the module and database conventions used
-by parent-portal-core and menteez-admin-core.
+Automobile Prototype Backend Starter: Built with standard module and database conventions.
 
 ## Structure
 
