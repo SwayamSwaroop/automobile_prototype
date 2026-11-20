@@ -1,0 +1,1 @@
+"""School MenteeZ backend application."""
